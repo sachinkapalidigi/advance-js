@@ -7,3 +7,5 @@ Index
 6. global variables
 7. IIFE : present in global variables
 8. this keyword and its scoping
+9. call , apply, bind
+10. this_exercise_1
